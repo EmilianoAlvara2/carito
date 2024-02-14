@@ -1,0 +1,114 @@
+[
+    {
+        "precio":1000000.00,
+        "id": 1,
+        "title": "Carro 1",
+        "thumbnailUrl": "https://hyrule100.000webhostapp.com/img/1.jpg"
+    } ,   
+
+    {
+        "precio":2000000.00,
+        "id": 2,
+        "title": "Carro 2",
+        "thumbnailUrl": "https://hyrule100.000webhostapp.com/img/2.jpg"
+    } ,   
+
+    {
+        "precio":2500000.00,
+        "id": 3,
+        "title": "Carro 3",
+        "thumbnailUrl": "https://hyrule100.000webhostapp.com/img/3.jpg"
+    } ,   
+
+    {
+        "precio":2750000.00,
+        "id": 4,
+        "title": "Carro 4",
+        "thumbnailUrl": "https://hyrule100.000webhostapp.com/img/4.jpg"
+    },    
+
+    {
+        "precio":3000000.00,
+        "id": 5,
+        "title": "Carro 5",
+        "thumbnailUrl": "https://hyrule100.000webhostapp.com/img/5.jpg"
+    },    
+
+    {
+        "precio":5000000.00,
+        "id": 6,
+        "title": "Carro 6",
+        "thumbnailUrl": "https://hyrule100.000webhostapp.com/img/6.jpg"
+    },    
+
+    {
+        "precio":50000.00,
+        "id": 7,
+        "title": "Carro 7",
+        "thumbnailUrl": "https://hyrule100.000webhostapp.com/img/7.jpg"
+    },    
+
+    {
+        "precio":1000000.00,
+        "id": 8,
+        "title": "Carro 8",
+        "thumbnailUrl": "https://hyrule100.000webhostapp.com/img/8.jpg"
+    },    
+
+    {
+        "precio":1250000.00,
+        "id": 9,
+        "title": "Carro 9",
+        "thumbnailUrl": "https://hyrule100.000webhostapp.com/img/9.jpg"
+    },    
+
+    {
+        "precio":3000000.00,
+        "id": 10,
+        "title": "Carro 10",
+        "thumbnailUrl": "https://hyrule100.000webhostapp.com/img/10.jpg"
+    } ,   
+    {
+        "precio":6000000.00,
+        "id": 11,
+        "title": "Carro 11",
+        "thumbnailUrl": "https://hyrule100.000webhostapp.com/img/11.jpg"
+    } ,   
+
+    {
+        "precio":4500000.00,
+        "id": 12,
+        "title": "Carro 12",
+        "thumbnailUrl": "https://hyrule100.000webhostapp.com/img/12.jpg"
+    } ,   
+
+    {
+        "precio":300000.00,
+        "id": 13,
+        "title": "Carro 13",
+        "thumbnailUrl": "https://hyrule100.000webhostapp.com/img/13.jpg"
+    } ,   
+
+    {
+        "precio":2000000.00,
+        "id": 14,
+        "title": "Carro 14",
+        "thumbnailUrl": "https://hyrule100.000webhostapp.com/img/14.jpg"
+    } ,   
+
+    {
+        "precio":300000.00,
+        "id": 15,
+        "title": "Carro 15",
+        "thumbnailUrl": "https://hyrule100.000webhostapp.com/img/15.jpg"
+    } ,   
+
+    {
+        "precio":30000.00,
+        "id": 16,
+        "title": "Carro 16",
+        "thumbnailUrl": "https://hyrule100.000webhostapp.com/img/16.jpg"
+    }    
+
+
+]
